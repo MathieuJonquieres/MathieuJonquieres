@@ -1,16 +1,18 @@
-## Hi there 👋
+# Étudiant en BUT Informatique
 
-<!--
-**MathieuJonquieres/MathieuJonquieres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Actuellement étudiant en **2ème année de BUT Informatique** à l’**IUT de Toulouse A**.  
 
-Here are some ideas to get you started:
+----------------------------------------------------------------------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projet en cours
+- Développement d’un jeu Metroidvania  
+  - Moteur : **Godot**  
+  - Langage : **C#**
+
+----------------------------------------------------------------------------------------------
+
+## Contact
+
+- **Téléphone :**  0631601197
+- **Email :**  mathieu.jonquierespro@outlook.fr
+
