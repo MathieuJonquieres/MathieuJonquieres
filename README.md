@@ -28,11 +28,11 @@ Actuellement étudiant en **2ème année de BUT Informatique** à l’**IUT de T
 - Développement d'une application de stationnement à Toulouse (Projet universitaire de 1ère année de BUT)
   - Langage de Programmation : **ADA**
   - Taille de l'équipe : 2 étudiant
-  - URL Github : https://github.com/MathieuJonquieres/ProjetProxy
     
 - Programmation d'un proxy entre client et serveur (Projet universitaire de 2nde année de BUT)
   - Langage de Programmation : **C**
   - Taille de l'équipe : 2 étudiants
+  -  URL Github : https://github.com/MathieuJonquieres/ProjetProxy
 
 ----------------------------------------------------------------------------------------------
 
