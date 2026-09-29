@@ -4,7 +4,25 @@ Actuellement étudiant en **2ème année de BUT Informatique** à l’**IUT de T
 
 ----------------------------------------------------------------------------------------------
 ## Projet en cours
- 
+
+- Developpement d'une application de gestion évènementiel (Projet étudiant)
+  - Langage de Programmation Front: **Flutter**
+  - Base de données : **Supabase**
+
+- Creation d'un service d'authentification personnel (Projet personnel)
+  - Langage de Programmation : **PYTHON**
+  - Base de données : **MariaDB**
+  - Services utilisés : **DOCKER** pour la création des conteneurs python et mysql
+  - Utilisation de **JWT** pour les authentifications
+
+- Creation d'une stack multi-services (Projet personnel)
+  - Langage de Programmation : **PYTHON**
+  - Base de données : **MariaDB**
+  - Services utilisés : **DOCKER** pour la création des conteneurs python et mysql
+  - Utilisation de **JWT** pour les authentifications
+
+## Projet Terminés
+
 - Conception et Développement d'une application de stationnement à Toulouse (Projet universitaire de 2nde année de BUT)
   - Langage de Programmation : **JAVA**
   - Base de données : **MariaDB** (Hebergeur : AlwaysData et utilisation de **MariaDB Connector** pour acceder a la base de donnée **MARIADB**)
@@ -17,14 +35,7 @@ Actuellement étudiant en **2ème année de BUT Informatique** à l’**IUT de T
   - Pattern DAO et Achitecture MVC mis en place
   - Utilisation du modèle de l'API REST avec séparation client/serveur/authentification
   - Taille de l'équipe : 2 étudiants
-
-- Creation d'un service d'authentification personnel (Projet personnel)
-  - Langage de Programmation : **PYTHON**
-  - Base de données : **MariaDB**
-  - Services utilisés : **DOCKER** pour la création des conteneurs python et mysql
-  - Utilisation de **JWT** pour les authentifications
-
-## Projet Terminés
+    
 - Développement d'une application de stationnement à Toulouse (Projet universitaire de 1ère année de BUT)
   - Langage de Programmation : **ADA**
   - Taille de l'équipe : 2 étudiant
