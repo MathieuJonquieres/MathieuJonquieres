@@ -16,9 +16,9 @@ Actuellement étudiant en **3ème année de BUT Informatique** à l’**IUT de T
   - Utilisation de **JWT** pour les authentifications
 
 - Creation d'une stack multi-services (Projet personnel)
-  - Langage de Programmation : **PYTHON**
+  - Langage de Programmation Front-Back: **Flutter/Java**
   - Base de données : **MariaDB**
-  - Services utilisés : **DOCKER** pour la création des conteneurs python et mysql
+  - Services utilisés : **DOCKER** pour la création des conteneurs de deploiement et mariadb
   - Utilisation de **JWT** pour les authentifications
 
 ## Projet Terminés
