@@ -1,6 +1,6 @@
 # Étudiant en BUT Informatique
 
-Actuellement étudiant en **2ème année de BUT Informatique** à l’**IUT de Toulouse A**.  
+Actuellement étudiant en **3ème année de BUT Informatique** à l’**IUT de Toulouse A**.  
 
 ----------------------------------------------------------------------------------------------
 ## Projet en cours
